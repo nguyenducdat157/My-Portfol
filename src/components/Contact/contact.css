@@ -1,0 +1,27 @@
+#contact {
+  background: #191919;
+  padding-top: 96px;
+  padding-bottom: 102px;
+  color: #636363;
+}
+
+#contact h4 {
+  font: 16px/24px "opensans-bold", sans-serif;
+  color: #ebeeee;
+  margin-bottom: 6px;
+}
+#contact p.lead {
+  font: 18px/36px "opensans-light", sans-serif;
+  padding-right: 3%;
+}
+
+#contact a {
+  font: 16px/24px "opensans-bold", sans-serif;
+  color: #f06000;
+}
+
+.contact_url {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+}
